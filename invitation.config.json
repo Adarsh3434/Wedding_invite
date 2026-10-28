@@ -1,0 +1,222 @@
+{
+  "metaTitle": "Ganesh N.D. & Arpitha M.R. | Wedding Invitation",
+  "eventType": "wedding",
+  "packageTier": "oro",
+  "commercial": {
+    "packageName": "Oro VIP Premium (Con Fotos)",
+    "basePrice": 1099.99,
+    "ticketPrice": 0,
+    "addonsPrice": 0,
+    "totalPrice": 1099.99
+  },
+  "theme": {
+    "fontPack": 3,
+    "palette": 2,
+    "music": {
+      "variant": "floating",
+      "songTitle": "A Celebration of Love",
+      "artistName": "Wedding Music"
+    },
+    "menu": {
+      "variant": "bar",
+      "title": "Ganesh & Arpitha",
+      "buttonVariant": "icon"
+    }
+  },
+  "ui": {
+    "menu": {
+      "show": true,
+      "variant": "bar",
+      "title": "Ganesh & Arpitha",
+      "buttonVariant": "icon"
+    },
+    "music": {
+      "show": true,
+      "variant": "floating",
+      "title": "Wedding Music",
+      "buttonVariant": "primary"
+    }
+  },
+  "config": {
+    "hasTicketingSystem": false,
+    "hasRSVP": false,
+    "hasMusic": true,
+    "hasMenu": true
+  },
+  "sections": {
+    "envelope": {
+      "showEnvelop": true,
+      "type": "cerrado-abierto"
+    },
+    "hero": {
+      "showHero": true,
+      "names": "Ganesh N.D. & Arpitha M.R.",
+      "subtitle": "With the blessings of our families, we invite you to celebrate our wedding.",
+      "date": "20 NOVEMBER 2026",
+      "city": "Nelamangala, Karnataka"
+    },
+    "scratchReveal": {
+      "showScratchReveal": false
+    },
+    "message": {
+      "showMessage": true,
+      "message": "With the love and blessings of our families, we invite you to join us as Ganesh and Arpitha begin their beautiful journey together. Your presence will make our celebration truly special.",
+      "quote": "Two hearts, two families, and one beautiful beginning."
+    },
+    "countdown": {
+      "showCountdown": true,
+      "targetDate": "2026-11-20T06:00:00"
+    },
+    "family": {
+      "showFamily": true,
+      "title": "With the Blessings of Our Families",
+      "parents": [
+        "Shubhashree & Dinesh",
+        "Mahadevi & M. N. Raju"
+      ],
+      "godparents": []
+    },
+    "places": {
+      "showPlaces": true,
+      "locations": [
+        {
+          "title": "Wedding Reception",
+          "venue": "Sri Jayadeva Veerashaiva Bhavaa",
+          "location": "Sri Jayadeva Veerashaiva Bhavaa, Nelmangala, Karnataka",
+          "time": "7:00 PM",
+          "date": "19-11-2026",
+          "url": "https://maps.app.goo.gl/Q1KeapwZ2ze2ZKLm8?g_st=ic"
+        },
+        {
+          "title": "Wedding Ceremony",
+          "venue": "Sri Jayadeva Veerashaiva Bhavaa",
+          "location": "Sri Jayadeva Veerashaiva Bhavaa, Nelmangala, Karnataka",
+          "time": "6:00 AM",
+          "date": "20-11-2026",
+          "url": "https://maps.app.goo.gl/Q1KeapwZ2ze2ZKLm8?g_st=ic"
+        }
+      ]
+    },
+    "itinerary": {
+      "showItinerary": true,
+      "itinerary": [
+        {
+          "time": "7:00 PM · 19 November 2026",
+          "event": "Wedding Reception"
+        },
+        {
+          "time": "6:00 AM · 20 November 2026",
+          "event": "Wedding Ceremony"
+        }
+      ]
+    },
+    "dressCode": {
+      "showDressCode": true,
+      "title": "Royal Indian Celebration",
+      "description": "Celebrate with us in your elegant traditional or festive attire.",
+      "attire": {
+        "men": "Traditional Indian or formal attire",
+        "women": "Traditional Indian or festive attire"
+      },
+      "colors": {
+        "suggested": [
+          "burgundy",
+          "gold",
+          "ivory"
+        ],
+        "avoid": []
+      }
+    },
+    "details": {
+      "showDetails": true,
+      "title": "A Few Helpful Notes",
+      "noKids": false,
+      "noKidsMessage": "",
+      "punctuality": true,
+      "punctualityMessage": "The wedding ceremony begins at 6:00 AM. We kindly request you to arrive a little early.",
+      "hashtag": "#GaneshAndArpitha"
+    },
+    "presents": {
+      "showPresents": false,
+      "title": "Gift Registry",
+      "url": "",
+      "bankDetails": null,
+      "envelopeRain": false
+    },
+    "confirmation": {
+      "showConfirmation": false,
+      "type": "abrasa",
+      "isQuantityFree": true,
+      "whatsappPhone": "",
+      "whatsappMessage": ""
+    },
+    "graduates": {
+      "showGraduates": false
+    },
+    "gallery": {
+      "showGallery": true,
+      "title": "Our Favorite Moments",
+      "variant": "mosaic",
+      "maxPhotos": 6
+    },
+    "guestPhotos": {
+      "showGuestPhotos": false,
+      "title": "Guest Photos",
+      "subtitle": "",
+      "albumUrl": ""
+    },
+    "ticket": {
+      "showTicket": false
+    },
+    "addons": {
+      "lodgingAndWeather": {
+        "showLodging": false,
+        "title": "Travel Information",
+        "hotels": [],
+        "weatherCity": "Nelamangala"
+      },
+      "ourStory": {
+        "showOurStory": true,
+        "title": "Our Story",
+        "quoteOrPoem": "A new chapter, a shared dream, and a lifetime of love. We are grateful to celebrate this beautiful beginning with you.",
+        "timeline": [
+          {
+            "date": "A Beautiful Beginning",
+            "title": "Two Families, One Celebration",
+            "description": "With the love and blessings of our families, we begin our journey together."
+          },
+          {
+            "date": "19 November 2026",
+            "title": "Wedding Reception",
+            "description": "Join us for an evening of celebration and togetherness."
+          },
+          {
+            "date": "20 November 2026",
+            "title": "Wedding Ceremony",
+            "description": "Be with us as we exchange vows and begin our life together."
+          }
+        ]
+      },
+      "faqAndMenu": {
+        "showFaqAndMenu": false,
+        "title": "Frequently Asked Questions",
+        "faqs": [],
+        "menuCourses": []
+      },
+      "playlistAndPhotos": {
+        "showPlaylistAndPhotos": false,
+        "title": "Music & Guest Photos",
+        "qrAlbumUrl": ""
+      },
+      "monogram": {
+        "showMonogram": false,
+        "title": "Our Monogram"
+      }
+    },
+    "farewell": {
+      "showFarewell": true,
+      "hashtag": "#GaneshAndArpitha",
+      "thankYouMessage": "Thank you for your love, blessings, and for being part of our special celebration."
+    }
+  }
+}
